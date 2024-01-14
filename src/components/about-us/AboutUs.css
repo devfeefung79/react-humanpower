@@ -1,0 +1,22 @@
+.about-us {
+  padding: 50px 100px;
+}
+
+.about-us .col {
+  padding: 20px;
+}
+
+.about-us .col:nth-child(2) {
+  text-align: end;
+}
+
+.about-us img {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.about-us h1 {
+  margin: 30px 0px 20px 0px;
+  font-size: 38px;
+  font-weight: 600;
+}

@@ -1,0 +1,35 @@
+.card-container {
+  position: relative;
+  margin: 4px 8px;
+  height: 480px;
+  width: 300px;
+}
+
+.card-container img {
+  position: absolute;
+  top: 0px;
+  z-index: 1;
+  height: 480px;
+  width: 300px;
+}
+
+.card-overlay {
+  position: absolute;
+  bottom: 0px;
+  background-color: rgb(0, 0, 0, 75%);
+  z-index: 2;
+}
+
+.card-overlay h1 {
+  margin: 16px;
+  color: #fff;
+  font-size: 26px;
+  text-align: center;
+}
+
+.card-overlay h3 {
+  margin: 16px;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+}

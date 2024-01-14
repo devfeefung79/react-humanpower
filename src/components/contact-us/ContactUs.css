@@ -1,0 +1,53 @@
+.contact-us {
+  background-color: #395e4f;
+  color: #fff;
+  padding: 60px 90px;
+}
+
+.contact-us input,
+.contact-us textarea {
+  border: 0px;
+  border-radius: 0px;
+  background-color: rgb(255, 255, 255, 15%);
+}
+
+.contact-us input:focus,
+.contact-us textarea:focus {
+  border: 0px;
+  border-radius: 0px;
+  background-color: rgb(255, 255, 255, 100%);
+}
+
+.contact-us .form-label {
+  margin-bottom: 0px;
+  margin-top: 12px;
+}
+
+.contact-us button {
+  border-radius: 0px;
+  border: none;
+  padding: 8px 12px;
+  width: 100px;
+  float: right;
+  background-color: #fcec97;
+}
+
+.contact-us h1 {
+  margin: 36px 16px 16px;
+  color: #fff;
+  font-size: 26px;
+}
+
+.contact-us h3 {
+  margin: 16px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.contact-us .icon-container {
+  margin: 16px;
+}
+
+.contact-us .icon-container svg {
+  margin: 5px 12px 0px 0px;
+}

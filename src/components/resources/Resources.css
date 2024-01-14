@@ -1,0 +1,30 @@
+.resources {
+  padding: 50px 100px;
+}
+
+.resources .col {
+  padding: 20px;
+}
+
+.resources .col:nth-child(2) {
+  text-align: end;
+}
+
+.resources img {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.resources h1 {
+  margin: 30px 0px 20px 0px;
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.resources button {
+  border-radius: 0px;
+  border: none;
+  margin-top: 20px;
+  padding: 8px 12px;
+  background-color: #3f8465;
+}

@@ -1,0 +1,19 @@
+.header {
+  padding: 20px 48px;
+  width: 100%;
+  background-color: #fcec97;
+}
+
+.header span {
+  font-weight: 600;
+  font-size: 20px;
+  margin: 0px 24px;
+}
+
+.header .right-container {
+  float: right;
+}
+
+.header .right-container svg {
+  margin: 5px 6px;
+}

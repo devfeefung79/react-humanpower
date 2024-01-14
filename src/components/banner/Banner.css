@@ -1,0 +1,33 @@
+.banner {
+  height: 450px;
+  width: 100%;
+  background-size: cover;
+  background-image: url("../../assets/banner.jpg");
+}
+
+.banner .container {
+  height: 450px;
+  width: 100%;
+  padding: 130px 0px;
+  margin-left: 150px;
+}
+
+.banner h1 {
+  margin: 0px 0px 10px 0px;
+  color: #fff;
+  font-size: 50px;
+}
+
+.banner h3 {
+  margin: 20px 0px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.banner button {
+  border-radius: 0px;
+  border: none;
+  padding: 8px 12px;
+  background-color: #fcec97;
+}
